@@ -1,11 +1,14 @@
 @font-face {
-    font-family: "LouisGeorgeCafe";
-    src: url("../../assets/fonts/louis_george_cafe/Louis\ George\ Cafe.ttf"),
-    url("../../assets/fonts/louis_george_cafe/Louis\ George\ Cafe\ Bold.ttf"),
-    url("../../assets/fonts/louis_george_cafe/Louis\ George\ Cafe\ Bold\ Italic.ttf"),
-    url("../../assets/fonts/louis_george_cafe/Louis\ George\ Cafe\ Italic.ttf"),
-    url("../../assets/fonts/louis_george_cafe/Louis\ George\ Cafe\ Light.ttf"),
-    url("../../assets/fonts/louis_george_cafe/Louis\ George\ Cafe\ Light\ Italic.ttf.ttf");
-      font-weight: normal;
+  font-family: "Inter";
+  src: url("../../assets/fonts/louis_george_cafe/Inter-Regular.ttf"),
+    url("../../assets/fonts/inter/Inter-Black.ttf"),
+    url("../../assets//fonts/inter/Inter-Bold.ttf"),
+    url("../../assets/fonts/inter/Inter-ExtraBold.ttf"),
+    url("../../assets/fonts/inter/Inter-ExtraLight.ttf"),
+    url("../../assets//fonts/inter/Inter-Light.ttf"),
+    url("../../assets//fonts/inter/Inter-Medium.ttf"),
+    url("../../assets/fonts/inter/Inter-SemiBold.ttf"),
+    url("../../assets/fonts/inter/Inter-Thin.ttf");
+  font-weight: normal;
   font-style: normal;
 }
