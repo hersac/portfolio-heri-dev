@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "LouisGeorgeCafe";
+    src: url("../../assets/fonts/louis_george_cafe/Louis\ George\ Cafe.ttf"),
+    url("../../assets/fonts/louis_george_cafe/Louis\ George\ Cafe\ Bold.ttf"),
+    url("../../assets/fonts/louis_george_cafe/Louis\ George\ Cafe\ Bold\ Italic.ttf"),
+    url("../../assets/fonts/louis_george_cafe/Louis\ George\ Cafe\ Italic.ttf"),
+    url("../../assets/fonts/louis_george_cafe/Louis\ George\ Cafe\ Light.ttf"),
+    url("../../assets/fonts/louis_george_cafe/Louis\ George\ Cafe\ Light\ Italic.ttf.ttf");
+      font-weight: normal;
+  font-style: normal;
+}
